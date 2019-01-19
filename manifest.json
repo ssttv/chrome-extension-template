@@ -1,13 +1,13 @@
 {
     "manifest_version": 2,
-    "name": "RaterFox",
-    "description": "The most popular movies and TV shows in your   default tab. Includes ratings, summaries and the ability to watch trailers.",
+    "name": "ExtensionName",
+    "description": "TThis field should be taken by the description of features your extension can offer to its userbase",
     "version": "1",
-    "author": "Jake Prins",
+    "author": "Jane Doe",
     "browser_action": 
     {
         "default_icon": "tab-icon.png",
-        "default_title": "Have a good day",
+        "default_title": "Be welcome!",
         "default_popup": "popup_html"
     },
     "chrome_url_overrides" : {
